@@ -325,43 +325,36 @@ GEMINI_MODEL = "gemini-1.5-flash-latest"
 
 ## 🏠 Dashboard
 
-```text
-Add screenshot here:
-src/images/dashboard1.png
-src/images/dashboard2.png
-```
 <p align="center">
-  <img src="src/images/dashboard1.png" width="180"/>
-  <img src="src/images/dashboard2.png" width="180"/>
+  <img src="src/images/dashboard1.png" width="300"/>
+  <img src="src/images/dashboard2.png" width="300"/>
 </p>
 
 ---
 
 ## 📊 EDA Page
 
-```text
-Add screenshot here:
-src/images/EDA1.png
-src/images/EDA2.png
-```
+<p align="center">
+  <img src="src/images/EDA1.png" width="300"/>
+  <img src="src/images/EDA2.png" width="300"/>
+</p>
 
 ---
 
 ## 🤖 Model Training
 
-```text
-Add screenshot here:
-src/images/Training1.png
-src/images/Training2.png
-src/images/Training3.png
-```
+
+<p align="center">
+  <img src="src/images/Training1.png" width="200"/>
+  <img src="src/images/Training2.png" width="200"/>
+  <img src="src/images/Training3.png" width="200"/>
+</p>
 
 ## 🤖 Chat With AI
 
-```text
-Add screenshot here:
-src/images/ChatWithAI.png
-```
+<p align="center">
+  <img src="src/images/ChatWithAI.png" width="300"/>
+</p>
 
 ---
 
