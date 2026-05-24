@@ -9,12 +9,10 @@
 </p>
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge\&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge\&logo=streamlit)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge\&logo=scikitlearn)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
 
 ---
