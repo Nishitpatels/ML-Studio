@@ -1,4 +1,4 @@
-# 🚀 ML Studio — AI-Powered AutoML Platform
+# 🚀 ML Studio — AI-Assisted AutoML Platform
 
 <p align="center">
   <img src="src/images/logo.png" width="180"/>
