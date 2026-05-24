@@ -326,8 +326,9 @@ GEMINI_MODEL = "gemini-1.5-flash-latest"
 ## 🏠 Dashboard
 
 <p align="center">
-  <img src="src/images/dashboard1.png" width="300"/>
-  <img src="src/images/dashboard2.png" width="300"/>
+  <img src="src/images/dashboard1.png" width="500"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="src/images/dashboard2.png" width="500"/>
 </p>
 
 ---
@@ -335,8 +336,9 @@ GEMINI_MODEL = "gemini-1.5-flash-latest"
 ## 📊 EDA Page
 
 <p align="center">
-  <img src="src/images/EDA1.png" width="300"/>
-  <img src="src/images/EDA2.png" width="300"/>
+  <img src="src/images/EDA1.png" width="500"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="src/images/EDA2.png" width="500"/>
 </p>
 
 ---
@@ -345,15 +347,17 @@ GEMINI_MODEL = "gemini-1.5-flash-latest"
 
 
 <p align="center">
-  <img src="src/images/Training1.png" width="200"/>
-  <img src="src/images/Training2.png" width="200"/>
-  <img src="src/images/Training3.png" width="200"/>
+  <img src="src/images/Training1.png" width="333"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="src/images/Training2.png" width="333"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="src/images/Training3.png" width="333"/>
 </p>
 
 ## 🤖 Chat With AI
 
 <p align="center">
-  <img src="src/images/ChatWithAI.png" width="300"/>
+  <img src="src/images/ChatWithAI.png" width="500"/>
 </p>
 
 ---
