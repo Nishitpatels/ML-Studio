@@ -1,0 +1,25 @@
+{
+    "model_name": "Decision_Tree",
+    "problem_type": "classification",
+    "dataset_rows": 891,
+    "dataset_columns": 11,
+    "feature_names": [
+        "Pclass",
+        "Age",
+        "Sex_female",
+        "Sex_male",
+        "SibSp_log",
+        "Parch_log",
+        "Fare_log",
+        "Embarked_C_log",
+        "Embarked_Q_log",
+        "Embarked_S_log"
+    ],
+    "metrics": {
+        "Accuracy": 0.8212,
+        "Precision": 0.8198,
+        "Recall": 0.8212,
+        "F1 Score": 0.8195
+    },
+    "export_timestamp": "2026-05-21T11:04:24"
+}

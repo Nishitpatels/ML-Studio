@@ -1,0 +1,25 @@
+{
+    "model_name": "Gradient_Boosting_(Tuned)",
+    "problem_type": "classification",
+    "dataset_rows": 891,
+    "dataset_columns": 11,
+    "feature_names": [
+        "Pclass",
+        "Sex",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Fare",
+        "Embarked",
+        "FamilySize",
+        "IsAlone",
+        "FarePerPerson"
+    ],
+    "metrics": {
+        "Accuracy": 0.7989,
+        "Precision": 0.7973,
+        "Recall": 0.7989,
+        "F1 Score": 0.7954
+    },
+    "export_timestamp": "2026-05-22T22:19:31"
+}

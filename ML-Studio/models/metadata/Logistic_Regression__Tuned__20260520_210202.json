@@ -1,0 +1,25 @@
+{
+    "model_name": "Logistic_Regression_(Tuned)",
+    "problem_type": "classification",
+    "dataset_rows": 891,
+    "dataset_columns": 11,
+    "feature_names": [
+        "Pclass",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Fare",
+        "Sex_female",
+        "Sex_male",
+        "Embarked_C",
+        "Embarked_Q",
+        "Embarked_S"
+    ],
+    "metrics": {
+        "Accuracy": 0.791,
+        "Precision": 0.7889,
+        "Recall": 0.791,
+        "F1 Score": 0.7888
+    },
+    "export_timestamp": "2026-05-20T21:02:02"
+}

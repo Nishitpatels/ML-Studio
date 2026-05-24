@@ -1,0 +1,24 @@
+# Core Streamlit runtime
+streamlit==1.54.0
+
+# Data handling and numerical computing
+pandas==2.3.3
+numpy==2.4.2
+scipy==1.17.0
+
+# Machine learning
+scikit-learn==1.8.0
+joblib==1.5.3
+shap==0.51.0
+
+# Visualization
+plotly==6.5.2
+
+# Reports and file formats
+reportlab==4.5.1
+openpyxl==3.1.5
+xlrd==2.0.2
+
+# AI integration and environment loading
+google-generativeai==0.8.6
+python-dotenv==1.2.1

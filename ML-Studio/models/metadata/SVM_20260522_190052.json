@@ -1,0 +1,25 @@
+{
+    "model_name": "SVM",
+    "problem_type": "classification",
+    "dataset_rows": 891,
+    "dataset_columns": 11,
+    "feature_names": [
+        "Pclass",
+        "Sex",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Fare",
+        "Embarked",
+        "FamilySize",
+        "IsAlone",
+        "FarePerPerson"
+    ],
+    "metrics": {
+        "Accuracy": 0.8268,
+        "Precision": 0.8269,
+        "Recall": 0.8268,
+        "F1 Score": 0.8234
+    },
+    "export_timestamp": "2026-05-22T19:00:52"
+}
