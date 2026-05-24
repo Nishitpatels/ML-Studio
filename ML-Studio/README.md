@@ -330,6 +330,10 @@ Add screenshot here:
 src/images/dashboard1.png
 src/images/dashboard2.png
 ```
+<p align="center">
+  <img src="src/images/dashboard1.png" width="180"/>
+  <img src="src/images/dashboard2.png" width="180"/>
+</p>
 
 ---
 
