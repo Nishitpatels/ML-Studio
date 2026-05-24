@@ -1,7 +1,7 @@
 # 🚀 ML Studio — AI-Powered AutoML Platform
 
 <p align="center">
-  <img src="assets/images/ML logo.png" width="180"/>
+  <img src="assets/images/logo.png" width="180"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge\&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge\&logo=streamlit)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge\&logo=scikitlearn)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 </p>
@@ -328,7 +327,8 @@ GEMINI_MODEL = "gemini-1.5-flash-latest"
 
 ```text
 Add screenshot here:
-assets/screenshots/dashboard.png
+src/images/dashboard1.png
+src/images/dashboard2.png
 ```
 
 ---
@@ -337,7 +337,8 @@ assets/screenshots/dashboard.png
 
 ```text
 Add screenshot here:
-assets/screenshots/eda.png
+src/images/EDA1.png
+src/images/EDA2.png
 ```
 
 ---
@@ -346,7 +347,16 @@ assets/screenshots/eda.png
 
 ```text
 Add screenshot here:
-assets/screenshots/training.png
+src/images/Training1.png
+src/images/Training2.png
+src/images/Training3.png
+```
+
+## 🤖 Chat With AI
+
+```text
+Add screenshot here:
+src/images/ChatWithAI.png
 ```
 
 ---
