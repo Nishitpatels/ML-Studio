@@ -1,7 +1,7 @@
 # 🚀 ML Studio — AI-Powered AutoML Platform
 
 <p align="center">
-  <img src="assets/images/logo.png" width="180"/>
+  <img src="src/images/logo.png" width="180"/>
 </p>
 
 <p align="center">
